@@ -16,7 +16,7 @@ SensorInfo - A component to gather information about device sensors like Proximi
 
 📱 **Minimum API Level:** 14
 
-📅 **Updated On:** [date=2026-03-30 timezone="Asia/Dubai"]
+📅 **Updated On:** 31/03/2026
 
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-publish-extensions/129103?u=jewel) <small><mark>v5.7.0</mark></small>
 
