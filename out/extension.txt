@@ -6,18 +6,11 @@ SensorInfo - A component to gather information about device sensors like Proximi
 
 ## 📝 Specifications
 * **
-📦 **Package:** com.ahmedislam.sensorinfo
-
+📦 **Package:** com.ahmedislam.sensorinfo.sensorinfo
 💾 **Size:** 6.48 KB
-
-👤 **Author:** Ahmed Islam
-
-⚙️ **Version:** 1.0 (Beta)
-
+⚙️ **Version:** 1.0Beta
 📱 **Minimum API Level:** 14
-
-📅 **Updated On:** [date=2026-03-30 timezone="Asia/Dubai"]
-
+📅 **Updated On:** [date=2026-03-30 timezone="Africa/Cairo"]
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-publish-extensions/129103?u=jewel) <small><mark>v5.7.0</mark></small>
 
 ## <kbd>Events:</kbd>
@@ -73,8 +66,4 @@ Get Accelerometer Sensor Info
 
 ### 4. GetLightSensorInfo
 Get Light Sensor Info
-_________________
-# NOTICE THAT: 
-This extension is a **BETA** version which it is still in development. (For full sensors.)
-
 
